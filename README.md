@@ -6,3 +6,6 @@ this  yyyy/mm/dd right to left of pc
 
 
 2023/sep/11 some error fixed
+
+2023/sep/19 final update 
+validation complete
